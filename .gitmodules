@@ -1,0 +1,3 @@
+[submodule "libmahcommon"]
+	path = libmahcommon
+	url = https://github.com/t3hx3/mah-libcommon.git
